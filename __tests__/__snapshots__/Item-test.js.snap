@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "flexDirection": "column",
+      "marginHorizontal": 5,
+      "marginVertical": 5,
+      "opacity": 1,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontSize": 10,
+        "textAlign": "right",
+      }
+    }
+  >
+    11 hours ago
+  </Text>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "uri": "https://a.thumbs.redditmedia.com/isXX5pFIpq5Dp9pPrfYb9kalYmyAS7HOI9H5VLA24u4.jpg",
+        }
+      }
+      style={
+        Object {
+          "height": 60,
+          "width": 50,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "flexDirection": "column",
+          "justifyContent": "space-between",
+          "marginLeft": 5,
+        }
+      }
+    >
+      <Text
+        numberOfLines={1}
+        style={
+          Object {
+            "fontSize": 20,
+            "fontWeight": "bold",
+            "width": 300,
+          }
+        }
+      >
+        Mullahs who have been harassing women in Iran for 43 years are now being harassed back by everybody
+      </Text>
+      <Text
+        style={
+          Object {
+            "fontSize": 12,
+          }
+        }
+      >
+        chillyfits
+      </Text>
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+          }
+        }
+      >
+        <Text>
+          Score: 
+          69698
+        </Text>
+        <Text>
+          2034
+           comments
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
